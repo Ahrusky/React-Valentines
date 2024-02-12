@@ -3,12 +3,12 @@ import "./App.css";
 
 const phrases = [
   "No",
-  "Awe you sure ; - ; ?",
+  "Are you sure ; - ; ?",
   "Really sure?",
-  "Sos, please",
-  "Why you do dis to me ; - ; ?",
-  "I wheel cry",
-  "Sos break N heart...in this economy?",
+  "Sos, nooo",
+  "Why are you doing thisss?",
+  "I mustn't cry",
+  "Breaking my heart...in this economy?",
 ];
 
 function App() {
@@ -37,7 +37,7 @@ function App() {
       ) : (
         <>
           <img
-            alt="wocky tiptapping"
+            alt="rocky tiptapping"
             src="https://media1.tenor.com/m/y_kcQuaQk3gAAAAC/rocky-hail-mary.gif"
           />
 
